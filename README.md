@@ -1,16 +1,15 @@
-## Hi there 👋
+# Vitor
+Designer focused on UX and Front-end development.
+I build digital products that are functional, scalable, and visually intentional.
 
-<!--
-**beltbunny05/beltbunny05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I work at the intersection of design and code.
+Background in Graphic Design
+Transitioning into Front-end Development
+Currently improving problem-solving skills through algorithms and data structures
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development
+- HTML
+- CSS
+- JavaScript
+- Python(fundamentals)
