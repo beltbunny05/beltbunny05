@@ -11,5 +11,5 @@ Currently improving problem-solving skills through algorithms and data structure
 ### Development
 - HTML
 - CSS
-- JavaScript
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Python(fundamentals)
