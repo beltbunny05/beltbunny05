@@ -7,7 +7,6 @@ Background in Graphic Design
 Transitioning into Front-end Development
 Currently improving problem-solving skills through algorithms and data structures
 
-![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=beltbunny05&layout=compact&langs_count=10&hide_border=true&locale=pt-br)
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
