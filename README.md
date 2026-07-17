@@ -9,32 +9,38 @@
 
 ### Sobre mim
 
--  Cursando **MBA em Engenharia de Software** na **USP**
--  Migrando de uma carreira em **Design Gráfico/UX** para desenvolvimento **front-end e back-end**
--  Objetivo: atuar remotamente como **engenheiro de software** (full-stack)
--  Fortalecendo lógica com **algoritmos e estruturas de dados**
--  Aprendo por meio de projetos práticos, com foco em entender profundamente cada camada antes de avançar
+- Cursando **MBA em Engenharia de Software** na **USP**
+- Migrando de uma carreira em **Design Gráfico/UX** para desenvolvimento **front-end e back-end**
+- Objetivo: atuar remotamente como **engenheiro de software** full-stack
+- Estudo algoritmos e estruturas de dados para fortalecer lógica de programação
+- Aprendo construindo projetos reais, priorizando entender cada camada antes de avançar para a próxima
 
 ---
 
-### 🛠️ Projetos em destaque
+### Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📊 Habit Tracker CLI**
-Aplicação de linha de comando em **Java**, construída com arquitetura em 4 camadas (Model, Repository, Service, CLI) e o padrão de projeto **Strategy** para cálculo de streaks.
+**Habit Tracker CLI**
+
+Aplicação de linha de comando em **Java**, com arquitetura em 4 camadas (Model, Repository, Service, CLI) e o padrão de projeto **Strategy** para cálculo de streaks.
 
 `Java` `Design Patterns` `CLI` `Picocli`
+
+[Ver repositório](https://github.com/beltbunny05/habit-tracker-cli)
 
 </td>
 <td width="50%" valign="top">
 
-**💰 Personal Finance Web App**
-App de finanças pessoais com **Next.js 15**, rastreador de metas de economia (com lógica de rollover) e parser de extratos OFX/CSV.
+**Personal Finance Web App**
+
+App de finanças pessoais com **Next.js 15**, rastreador de metas de economia com lógica de rollover e parser de extratos OFX/CSV.
 
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
+
+[Ver repositório](https://github.com/beltbunny05/personal-finance-app)
 
 </td>
 </tr>
@@ -42,7 +48,7 @@ App de finanças pessoais com **Next.js 15**, rastreador de metas de economia (c
 
 ---
 
-### 💻 Stack
+### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,7 +61,7 @@ App de finanças pessoais com **Next.js 15**, rastreador de metas de economia (c
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beltbunny05&theme=tokyonight&hide_border=true" />
@@ -64,5 +70,3 @@ App de finanças pessoais com **Next.js 15**, rastreador de metas de economia (c
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beltbunny05&theme=tokyo-night&hide_border=true" />
 </p>
-
----
